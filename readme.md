@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner:
 
 ````npm cristal rect````
+
+sistema de registro 2
